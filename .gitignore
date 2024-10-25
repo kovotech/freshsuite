@@ -1,0 +1,16 @@
+test.py
+logs/
+json_samples/
+apis/__pycache__/
+otherOps/__pycache__/
+pipelines/__pycache__/
+sql/__pycache__/
+sql/tables/__pycache__/
+test.json
+test2.json
+pipelines/test.py
+test.html
+job/__pycache__/
+otherOps/path.py
+test2.py
+**/__pycache__/
